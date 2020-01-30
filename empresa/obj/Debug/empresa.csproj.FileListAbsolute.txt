@@ -1,0 +1,10 @@
+C:\Users\Aluno\Documents\Kah\empresa\empresa\bin\Debug\empresa.exe.config
+C:\Users\Aluno\Documents\Kah\empresa\empresa\bin\Debug\empresa.exe
+C:\Users\Aluno\Documents\Kah\empresa\empresa\bin\Debug\empresa.pdb
+C:\Users\Aluno\Documents\Kah\empresa\empresa\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Documents\Kah\empresa\empresa\obj\Debug\empresa.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Kah\empresa\empresa\obj\Debug\empresa.FrmLogin.resources
+C:\Users\Aluno\Documents\Kah\empresa\empresa\obj\Debug\empresa.Properties.Resources.resources
+C:\Users\Aluno\Documents\Kah\empresa\empresa\obj\Debug\empresa.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\Kah\empresa\empresa\obj\Debug\empresa.exe
+C:\Users\Aluno\Documents\Kah\empresa\empresa\obj\Debug\empresa.pdb
