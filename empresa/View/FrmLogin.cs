@@ -35,13 +35,13 @@ namespace empresa
             lerDados();
             String Cryp = CryHash.ComputeSha256Hash(user.Senha);
             con.OpenConnection();
-            String sql = $"select * from tb_usuario where usuario = {user.User} and senha {Cryp} and status = true";
+            String sql = $"select * from tb_usuario where usuario = '{user.User}' and senha = '{Cryp}' and status = true";
 
             MySqlDataReader reader;
 
             reader = con.executeQuery(sql);
 
-            if (reader.Read())
+            if (reader.HasRows)
             {
                 MessageBox.Show("Logou com sucesso!");
             }
