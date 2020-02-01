@@ -43,11 +43,14 @@ namespace empresa
 
             if (reader.HasRows)
             {
-                MessageBox.Show("Logou com sucesso!");
+                this.Visible = false;                
+                FrmTelaPrincipal principal = new FrmTelaPrincipal();
+                principal.Show();
+
             }
             else
             {
-                MessageBox.Show("Não logou!");
+                MessageBox.Show("Erro ao logar!");
             }
         }
     }

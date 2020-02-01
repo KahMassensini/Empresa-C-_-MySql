@@ -8,4 +8,5 @@ C:\Users\Aluno\Documents\Kah\empresa\empresa\obj\Debug\empresa.Properties.Resour
 C:\Users\Aluno\Documents\Kah\empresa\empresa\obj\Debug\empresa.csproj.GenerateResource.Cache
 C:\Users\Aluno\Documents\Kah\empresa\empresa\obj\Debug\empresa.exe
 C:\Users\Aluno\Documents\Kah\empresa\empresa\obj\Debug\empresa.pdb
-C:\Users\Aluno\Documents\Kah\empresa\empresa\obj\Debug\empresa.View.TelaPrincipal.resources
+C:\Users\Aluno\Documents\Kah\empresa\empresa\obj\Debug\empresa.FrmTelaPrincipal.resources
+C:\Users\Aluno\Documents\Kah\empresa\empresa\obj\Debug\empresa.FrmSetor.resources

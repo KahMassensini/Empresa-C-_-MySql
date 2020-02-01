@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace empresa.View
+namespace empresa
 {
     public partial class FrmTelaPrincipal : Form
     {
@@ -22,11 +22,65 @@ namespace empresa.View
             user = new Usuario();
         }
 
+        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
+            FrmLogin login = new FrmLogin();
+            login.Show();
+        }
+
+        private void btnCsetor_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
+            FrmSetor setor = new FrmSetor();
+            setor.Show();
+        }
+
+        private void setorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
+            FrmSetor setor = new FrmSetor();
+            setor.Show();
+        }
 
 
-        private void TelaPrincipal_Load(object sender, EventArgs e)
+        private void btnCfunc_Click(object sender, EventArgs e)
         {
 
         }
+
+        private void funcionárioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
+        private void btnRfunc_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void funçãoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void perfilToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void usuárioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void usuárioToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
+
     }
 }
